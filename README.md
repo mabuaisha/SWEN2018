@@ -14,8 +14,8 @@ A repository for  teaching the concepts of DevOps - Software Management Course
   </thead>
   <tbody>
     <tr>
-      <td>Feature</td>
-      <td>Feature Development</td>
+      <td>Release</td>
+      <td>release-*</td>
       <td>Accepts merges from Working and Hotfixes</td>
       <td></td>
       <td></td>
