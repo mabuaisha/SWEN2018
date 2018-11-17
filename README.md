@@ -6,11 +6,10 @@ A repository for  teaching the concepts of DevOps - Software Management Course
   <thead>
     <tr>
       <th>Branch Name</th>
-      <th>Branch</th>
+      <th>Naming Convention</th>
       <th>Description, Instructions, Notes</th>
       <th>Branch off from</th>
       <th>Merge Back Into</th>
-      <th>Naming Convention:</th>
     </tr>
   </thead>
   <tbody>
@@ -20,7 +19,6 @@ A repository for  teaching the concepts of DevOps - Software Management Course
       <td>Accepts merges from Working and Hotfixes</td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>Working</td>
@@ -28,13 +26,11 @@ A repository for  teaching the concepts of DevOps - Software Management Course
       <td>Accepts merges from Features/Issues and Hotfixes</td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>Features/Issues</td>
       <td>topic-*</td>
       <td>Always branch off HEAD of Working</td>
-      <td></td>
       <td></td>
       <td></td>
     </tr>
