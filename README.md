@@ -21,7 +21,7 @@ A repository for  teaching the concepts of DevOps - Software Management Course
       <td></td>
     </tr>
     <tr>
-      <td>Working</td>
+      <td>master</td>
       <td>master</td>
       <td>Accepts merges from Features/Issues and Hotfixes</td>
       <td></td>
